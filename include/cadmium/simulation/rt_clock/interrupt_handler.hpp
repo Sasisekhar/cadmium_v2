@@ -16,7 +16,7 @@ namespace cadmium {
         public:
         /**
          * The interrupt handler abstract class. Override this class
-         * to enable asynchronous inputs in yout model
+         * to enable asynchronous inputs in your model
          */
         InterruptHandler(){};
 
